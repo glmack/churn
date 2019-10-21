@@ -1,1 +1,1 @@
-Predict customer churn using customer churn models
+Predict customer actions using customer-focused uplift models
